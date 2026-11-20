@@ -1,3 +1,6 @@
+//Rowan's Autotile script!
+//github.com/RowanFuture/GamemakerAutotile/
+
 //order: right, ru, up, ul, left, ld, down dr,
 global.built_in_tile_sequence_lookup47_ARRAY = [
 	0b11111111,
