@@ -1,4 +1,5 @@
 //Rowan's Autotile script!
+//Copyright (c) 2026 Rowan Douglas
 //github.com/RowanFuture/GamemakerAutotile/
 
 //order: right, ru, up, ul, left, ld, down dr,
